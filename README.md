@@ -25,7 +25,7 @@ for p in /sys/class/drm/*/status; do con=${p%/status}; echo -n "${con#*/card?-}:
 ```
 
 ## USEFUL LINKS
-- [NVIDIA Driver Documentation](https://download.nvidia.com/XFree86/Linux-x86_64/570.133.07/README
+- [NVIDIA Driver Documentation](https://download.nvidia.com/XFree86/Linux-x86_64/570.133.07/README)
 - [X.org config file information (in french)](https://www.malekal.com/configurer-comprendre-xorg-conf/)
 - [Kernel Mode Setting (KMS)](https://wiki.archlinux.org/title/Kernel_mode_setting)
 - [NVIDIA Driver on Arch Wiki](https://wiki.archlinux.org/title/NVIDIA)
