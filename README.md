@@ -33,7 +33,7 @@ $ cat /var/log/Xorg.0.log
 
 ## USEFUL LINKS
 - [NVIDIA Driver Documentation](https://download.nvidia.com/XFree86/Linux-x86_64/570.133.07/README/)
-- [Officiel X.org config file documentation](https://www.x.org/archive/X11R7.6/doc/man/man5/xorg.conf.5.xhtml)
+- [Official X.org config file documentation](https://www.x.org/archive/X11R7.6/doc/man/man5/xorg.conf.5.xhtml)
 - [X.org config file information (in french)](https://www.malekal.com/configurer-comprendre-xorg-conf/)
 - [X.org display modes and resolutions (in french)](https://doc.ubuntu-fr.org/resolution_ecran_avance)
 - [Kernel Mode Setting (KMS)](https://wiki.archlinux.org/title/Kernel_mode_setting)
