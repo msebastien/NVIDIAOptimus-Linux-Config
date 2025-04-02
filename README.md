@@ -92,7 +92,13 @@ The X log will contain a list of what display devices are valid for the GPU.
 
 ```console
 $ cat /var/log/Xorg.0.log
-``` 
+```
+
+## Display system graphics info
+
+```console
+$ inxi --graphics
+```
 
 ## USEFUL LINKS
 - [NVIDIA Driver Documentation](https://download.nvidia.com/XFree86/Linux-x86_64/570.133.07/README/)
